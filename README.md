@@ -1,10 +1,4 @@
-# PyTraining
-
-
-✈️🛩️🚀✈️🛩️🚀✈️  🛩️🚀✈️🛩️🚀  
-
-✍🏻 📒 Syllabus of Python web development📒✍🏻
-
+# ✍🏻 📒 Syllabus of Python development course📒✍🏻
 
 
 
@@ -24,7 +18,7 @@
 👉🏻  Python land-scape in the industry
 👉🏻  Future of Python in industry
 
-➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️
+➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️
  
 📙 **Module 1 - Python basics**
        
