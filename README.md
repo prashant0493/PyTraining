@@ -327,6 +327,9 @@
 
 **Module 37 - Project deployment and cloud platforms**
 
+        - Gunicorn
+        - Nginx
+        - Cloud platforms
 
 **Module 38 - Real time projects according to industry requirements**
     
@@ -341,4 +344,5 @@
 
 
 
+ 
  
