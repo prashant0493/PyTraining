@@ -1,9 +1,14 @@
 # PyTraining
 
 
-## Python training curriculum vitae
+✈️🛩️🚀✈️🛩️🚀✈️🛩️🚀✈️🛩️🚀  ✈️🛩️🚀✈️🛩️🚀✈️🛩️🚀✈️🛩️🚀  
 
-**WHAT YOU GET?**
+✍🏻 📒 Syllabus of Python web development📒✍🏻
+
+✈️🛩️🚀✈️🛩️🚀✈️🛩️🚀✈️🛩️🚀  ✈️🛩️🚀✈️🛩️🚀✈️🛩️🚀✈️🛩️🚀 
+
+
+🎖️🔰 **WHAT YOU GET?** 🔰🎖️
 
     - Industry level coding proficieny in Python programming langugage
     - Direct interaction with industry experts
@@ -11,18 +16,15 @@
     - Generic programming fundamentals that apply across programming languages
     - Soft skill training (basic) 
 
-
-**MOTTO**
-
-    - Learn yourself and teach others
-
  
-**INTRODUCTION TO PYTHON**
+🌐  **INTRODUCTION TO PYTHON** 🌐 
 
-- Why python?
-- What is open source?
-- Python land-scape in the industry
-- Future of Python in industry
+👉🏻  Why python?
+👉🏻  What is open source?
+👉🏻  Python land-scape in the industry
+👉🏻  Future of Python in industry
+
+➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️
  
 📙 **Module 1 - Python basics**
        
