@@ -2,9 +2,23 @@
 
 
 ## Python training curriculum vitae
+
+**WHAT YOU GET?**
+
+    - Industry level coding proficieny in Python programming langugage
+    - Direct interaction with industry experts
+    - Industry project experience
+    - Generic programming fundamentals that apply across programming languages
+    - Soft skill training (basic) 
+
+
+**MOTTO**
+
+    - Learn yourself and teach others
+
  
 **INTRODUCTION TO PYTHON**
- 
+
 - Why python?
 - What is open source?
 - Python land-scape in the industry
@@ -62,7 +76,7 @@
                 - code 2
                 - code 3
  
-**Module 4 - Python source file **
+**Module 4 - Python source file**
  
         - Python source file
         - Whitespaces and indentations
@@ -114,11 +128,11 @@
  
 **Module 7 - Functions and Modules**
  
-        - Defining functions
-        - Variable scope
-        - Global variables
-        - Namespaces
-        - Function parameters (positional & keyword)
+    - Defining functions
+    - Variable scope
+    - Global variables
+    - Namespaces
+    - Function parameters (positional & keyword)
     - Default argument value
         - Returning value
     - *args, **kwargs
@@ -143,6 +157,10 @@
     - sub-modules
     - default modules
     - requests module
+    - os module
+    - shutil
+    - datetime
+    - time
 
 **Module 10 - File handling**
    
@@ -188,6 +206,9 @@
     - method objects
     - class and instance variables
     - inheritance  
+    - encapsulation
+    - polymorphism
+    - abstraction
         - multiple inheritance
         - factory classes
         - mixin classes
@@ -202,19 +223,76 @@
     - Closures
     - Decorators
 
-**Module 17 - understanding packages**
+**Module 17 - Regular expressions**
+
+**Module 18 - Pandas**
+
+    - Pandas series
+    - Dataframes
+    - File handling (read csv, read sql, read json etc)
+    - Analyzing data using pandas
+    - Data cleaning in pandas
+
+**Module 19 - Numpy** 
+
+**Module 20 - understanding packages**
     
     - how to install packages?
     - how to manage dependencies?
     - how to package and distribute?
 
-**Module 18 - Virtualenv**
+**Module 21 - Virtualenv**
 
     - Installation
     - Usage
     - Advanced concepts
 
-**Module 19 - Coding standards**
+
+**Module 22 - Python web framework**
+
+    - Introduction
+    - Flask
+    - Django
+    - FastAPI
+
+**Module 23 - Django**
+
+    - Installation 
+    - Create django project
+    - Django models
+    - Django admin console
+    - Django URLs
+    - Django views
+    - Django templates (HTML and CSS)
+    - Deployment
+
+**Module 24 - ORM**
+
+    - Django ORM
+    - ORM using sqlalchemy
+
+**Module 25 - Flask**
+
+    - Flask application 
+    - Flask ecosystem
+
+**Module 26 - FastAPI**
+    
+    - WSGI vs ASGI
+    - Python3 features in FastAPI
+    - Project in FastAPI
+    - Swagger
+
+**Module 27 - Multi-threading and multi-processing**
+
+    - Programming practices
+    - Use cases
+
+**Module 28 - AsyncIO**
+
+    - Introduction to asynchronous programming 
+
+**Module 29 - Coding standards**
     
     - PEP-8 standards
     - Tabs and spaces
@@ -228,12 +306,29 @@
     - Static code analysis
     - Black and mypy
 
-**Module 20 - debugging python code**
+**Module 30 - debugging python code**
 
     - Debugging in IDE
     - Pdb and breakpoint
 
-**Module 21 - Applications**
+**Module 31 - Design patterns**
+
+    - Introduction
+
+**Module 32 - Linux fundamentals**
+
+**Module 33 - GIT and GITHUB**
+
+**Module 34 - JIRA**
+
+**Module 35 - API testing using postman**
+
+**Module 36 - SQL and Database**
+
+**Module 37 - Project deployment and cloud platforms**
+
+
+**Module 31 - Real time projects according to industry requirements**
     
     - Command line applications
     - Web applications
@@ -241,7 +336,9 @@
 
         - Lab : Exercises in this Lesson
                 - Building a command line application with click
-                - Building a web application using flask
+                - Building a web application using flask, flask, django
                 - Building a desktop application using Pypercard
 
 
+
+ 
