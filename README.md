@@ -1,4 +1,4 @@
-# ✍🏻 📒 Syllabus of Python development course📒✍🏻
+# Syllabus of Python development course
 
 
 
@@ -13,12 +13,12 @@
  
 🌐  **INTRODUCTION TO PYTHON** 🌐 
 
-    - 👉🏻 Why python?
-    - 👉🏻 What is open source?
-    - 👉🏻 Python land-scape in the industry
-    - 👉🏻 Future of Python in industry
+    - Why python?
+    - What is open source?
+    - Python land-scape in the industry
+    - Future of Python in industry
 
-➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️
+
  
 📙 **Module 1 - Python basics**
        
