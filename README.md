@@ -24,7 +24,7 @@
 - Python land-scape in the industry
 - Future of Python in industry
  
-👉🏻 **Module 1 - Python basics**
+📙 **Module 1 - Python basics**
        
         - Python as general purpose programming language
         - Installation
@@ -43,7 +43,7 @@
                 - code 3
        
  
-👉🏻 **Module 2 - data types**
+📙 **Module 2 - data types**
  
         - Text Type:        str
         - Numeric Types:    int, float, complex
@@ -62,7 +62,7 @@
                 - code 3
  
  
-👉🏻 **Module 3 - Operators and expressions**  
+📙 **Module 3 - Operators and expressions**  
  
         - Operators
         - Integer arithmetic using operators
@@ -76,7 +76,7 @@
                 - code 2
                 - code 3
  
-👉🏻 **Module 4 - Python source file**
+📙 **Module 4 - Python source file**
  
         - Python source file
         - Whitespaces and indentations
@@ -90,7 +90,7 @@
                 - code 2
                 - code 3
  
-👉🏻 **Module 5 - Control flow**
+📙 **Module 5 - Control flow**
  
         - If else
         - Finally
@@ -98,7 +98,7 @@
         - Truth value testing
         - all() & any()  
          
-👉🏻 **Module 6 - Looping**  
+📙 **Module 6 - Looping**  
      
         - While loop
         - Lab : Exercises in this Lesson  
@@ -126,7 +126,7 @@
          - Find the niddle
          - Rolling dice
  
-👉🏻 **Module 7 - Functions and Modules**
+📙 **Module 7 - Functions and Modules**
  
     - Defining functions
     - Variable scope
@@ -142,13 +142,13 @@
     - Map function
  
  
-👉🏻 **Module 8 - Python built-in functions**
+📙 **Module 8 - Python built-in functions**
 
     - hash()
     - dir()
     - help()
 
-👉🏻 **Module 9 - Modules**
+📙 **Module 9 - Modules**
  
     - module vs packages
     - built-in modules
@@ -162,7 +162,7 @@
     - datetime
     - time
 
-👉🏻 **Module 10 - File handling**
+📙 **Module 10 - File handling**
    
     - File opening
     - Closing file
@@ -176,29 +176,29 @@
         - with statement (context-managers)
         - Rolling dice
 
-👉🏻 **Module 11 - Exceptions**
+📙 **Module 11 - Exceptions**
     
     - how to handle exceptions?
     - multiple exceptions
     - using finally for cleanup
 
-👉🏻 **Module 12 - Collections module**
+📙 **Module 12 - Collections module**
 
     - Counter
     - Defaultdict
     - Named tuple
 
-👉🏻 **Module 13 - using Pycharm as your primary python editor**
+📙 **Module 13 - using Pycharm as your primary python editor**
     
     - Installing pycharm
     - Explore pycharm features
 
-👉🏻 **Module 14 - creating a command line tool**
+📙 **Module 14 - creating a command line tool**
    
     - what is command line tool?
     - Lab : create a CLI tool
  
-👉🏻 **Module 15 - Object oriented Python (Classes)**
+📙 **Module 15 - Object oriented Python (Classes)**
  
     - class definition syntax
     - class objects
@@ -215,7 +215,7 @@
     - private variables
     - property (getter and setter methods)
 
-👉🏻 **Module 16 - Iterators, generators and decorators**
+📙 **Module 16 - Iterators, generators and decorators**
 
     - Iterators 
     - Generators
@@ -223,9 +223,9 @@
     - Closures
     - Decorators
 
-👉🏻 **Module 17 - Regular expressions**
+📙 **Module 17 - Regular expressions**
 
-👉🏻 **Module 18 - Pandas**
+📙 **Module 18 - Pandas**
 
     - Pandas series
     - Dataframes
@@ -233,29 +233,29 @@
     - Analyzing data using pandas
     - Data cleaning in pandas
 
-👉🏻 **Module 19 - Numpy** 
+📙 **Module 19 - Numpy** 
 
-👉🏻 **Module 20 - understanding packages**
+📙 **Module 20 - understanding packages**
     
     - how to install packages?
     - how to manage dependencies?
     - how to package and distribute?
 
-👉🏻 **Module 21 - Virtualenv**
+📙 **Module 21 - Virtualenv**
 
     - Installation
     - Usage
     - Advanced concepts
 
 
-👉🏻 **Module 22 - Python web framework**
+📙 **Module 22 - Python web framework**
 
     - Introduction
     - Flask
     - Django
     - FastAPI
 
-👉🏻 **Module 23 - Django**
+📙 **Module 23 - Django**
 
     - Installation 
     - Create django project
@@ -266,33 +266,33 @@
     - Django templates (HTML and CSS)
     - Deployment
 
-👉🏻 **Module 24 - ORM**
+📙 **Module 24 - ORM**
 
     - Django ORM
     - ORM using sqlalchemy
 
-👉🏻 **Module 25 - Flask**
+📙 **Module 25 - Flask**
 
     - Flask application 
     - Flask ecosystem
 
-👉🏻 **Module 26 - FastAPI**
+📙 **Module 26 - FastAPI**
     
     - WSGI vs ASGI
     - Python3 features in FastAPI
     - Project in FastAPI
     - Swagger
 
-👉🏻 **Module 27 - Multi-threading and multi-processing**
+📙 **Module 27 - Multi-threading and multi-processing**
 
     - Programming practices
     - Use cases
 
-👉🏻 **Module 28 - AsyncIO**
+📙 **Module 28 - AsyncIO**
 
     - Introduction to asynchronous programming 
 
-👉🏻 **Module 29 - Coding standards**
+📙 **Module 29 - Coding standards**
     
     - PEP-8 standards
     - Tabs and spaces
@@ -306,32 +306,32 @@
     - Static code analysis
     - Black and mypy
 
-👉🏻 **Module 30 - debugging python code**
+📙 **Module 30 - debugging python code**
 
     - Debugging in IDE
     - Pdb and breakpoint
 
-👉🏻 **Module 31 - Design patterns**
+📙 **Module 31 - Design patterns**
 
     - Introduction
 
-👉🏻 **Module 32 - Linux fundamentals**
+📙 **Module 32 - Linux fundamentals**
 
-👉🏻 **Module 33 - GIT and GITHUB**
+📙 **Module 33 - GIT and GITHUB**
 
-👉🏻 **Module 34 - JIRA**
+📙 **Module 34 - JIRA**
 
-👉🏻 **Module 35 - API testing using postman**
+📙 **Module 35 - API testing using postman**
 
-👉🏻 **Module 36 - SQL and Database**
+📙 **Module 36 - SQL and Database**
 
-👉🏻 **Module 37 - Project deployment and cloud platforms**
+📙 **Module 37 - Project deployment and cloud platforms**
 
         - Gunicorn
         - Nginx
         - Cloud platforms
 
-👉🏻 **Module 38 - Real time projects according to industry requirements**
+📙 **Module 38 - Real time projects according to industry requirements**
     
     - Command line applications
     - Web applications
