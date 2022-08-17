@@ -13,10 +13,10 @@
  
 🌐  **INTRODUCTION TO PYTHON** 🌐 
 
-👉🏻  Why python?
-👉🏻  What is open source?
-👉🏻  Python land-scape in the industry
-👉🏻  Future of Python in industry
+    - 👉🏻 Why python?
+    - 👉🏻 What is open source?
+    - 👉🏻 Python land-scape in the industry
+    - 👉🏻 Future of Python in industry
 
 ➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️
  
