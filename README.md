@@ -328,7 +328,7 @@
 **Module 37 - Project deployment and cloud platforms**
 
 
-**Module 31 - Real time projects according to industry requirements**
+**Module 38 - Real time projects according to industry requirements**
     
     - Command line applications
     - Web applications
